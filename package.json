@@ -1,5 +1,5 @@
 {
-  "name": "npm-cli-login",
+  "name": "@lark-org/npm-cli-login",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
